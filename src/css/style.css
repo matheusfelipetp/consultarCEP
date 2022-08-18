@@ -55,6 +55,7 @@ body {
   background: #006ed3;
   color: #fff;
   font: 400 1.25rem "Comfortaa", cursive;
+  text-align: center;
   cursor: pointer;
   margin-left: -5px;
   transition: 0.3s ease;
