@@ -1,5 +1,5 @@
 # 📍 Consultar CEP
-Este projeto tem como objetivo buscar informações de endereços e locais através de um CEP digitado pelo usuário. Foi utilizado a [API ViaCep](https://viacep.com.br/) para fazer as requisições dessas informações.
+Este projeto tem como objetivo buscar informações de endereços e locais através de um CEP digitado pelo usuário. Foi utilizado a [API ViaCep](https://viacep.com.br/) para fazer as requisições dessas informações. O projeto está responsivo para todas as telas.
 
 ## 💻 Tecnologia
 - HTML5
